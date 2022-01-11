@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "zgb01.f3322.net:25500/sub?" }],
+        backendOptions: [{ value: "http://zgb01.f3322.net:25500/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
